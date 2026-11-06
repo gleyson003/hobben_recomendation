@@ -10,7 +10,8 @@ const groups = [
       1, 
       2, 
       3
-    ]
+    ],
+    subinterests: [4, 6]
   },
   {
     id: 2,
@@ -22,7 +23,8 @@ const groups = [
     interests: [
       4,
       3
-    ]
+    ],
+    subinterests: []
   },
   {
     id: 3,
@@ -35,7 +37,8 @@ const groups = [
       5,
       6,
       7
-    ]
+    ],
+    subinterests: []
   },
   {
     id: 4,
@@ -48,7 +51,8 @@ const groups = [
       1,
       2,
       3
-    ]
+    ],
+    subinterests: []
   }
 ];
 

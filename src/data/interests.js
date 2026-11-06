@@ -1,31 +1,38 @@
 const interests = [
     {
         id: 1,
-        name: "artificial intelligence"
+        name: "artificial intelligence",
+        subinterests: [1, 2]
     },
     {
         id: 2,
-        name: "programming"
+        name: "programming",
+        subinterests: [3, 4]
     },
     {
         id: 3,
-        name: "technology"
+        name: "technology",
+        subinterests: [5]
     },
     {
         id: 4,
-        name: "games"
+        name: "games",
+        subinterests: []
     },
     {
         id: 5,
-        name: "music"
+        name: "music",
+        subinterests: []
     },
     {
         id: 6,
-        name: "instruments"
+        name: "instruments",
+        subinterests: []
     },
     {
         id: 7,
-        name: "singing"
+        name: "singing",
+        subinterests: []
     }
 ];
 
